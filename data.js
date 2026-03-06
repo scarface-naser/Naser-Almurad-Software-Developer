@@ -100,7 +100,7 @@ const portfolioData = {
     {
       "id": 2,
       "slug": "flutter-instagram-clone",
-      "image": "./thumbnails/flutter_app.webp",
+      "image": "./thumbnails/thumbnails/IMG_7208.jpeg",
       "title": "📱 Flutter Instagram Clone App",
       "description": "<strong>📱 Instagram-Style Social Media App (Flutter, Dart, Firebase)</strong>\n\nA modern <strong>Instagram-inspired social media mobile application</strong> built using <strong>Flutter</strong>. The app allows users to share photos, interact with posts, follow other users, and experience a smooth cross-platform mobile interface.\n\nDesigned to demonstrate <strong>mobile UI design, real-time data handling, and social media features</strong> using Flutter.\n\n<strong>Key Features</strong>\n\n<strong>📸 Photo Sharing:</strong> Users can upload and share images with captions similar to Instagram.\n<strong>❤️ Post Interactions:</strong> Like and comment on posts to interact with other users.\n<strong>👤 User Profiles:</strong> Personalized user profiles with profile picture, bio, and posts grid.\n<strong>➕ Follow System:</strong> Follow and unfollow users to build a social network.\n<strong>📰 Feed System:</strong> Dynamic home feed showing posts from followed users.\n<strong>💬 Comments System:</strong> Real-time comments and discussions under posts.\n<strong>🔒 Authentication:</strong> Secure login and registration using Firebase Authentication.\n<strong>⚡ Real-Time Database:</strong> Posts, likes, and comments update instantly using Firebase.\n<strong>🎨 Modern UI:</strong> Clean and responsive mobile UI designed with Flutter widgets.\n<strong>📱 Cross-Platform:</strong> Runs smoothly on both Android and iOS from a single Flutter codebase.\n\n<strong>Tech Stack</strong>\n\nFramework: Flutter\nLanguage: Dart\nBackend: Firebase\nAuthentication: Firebase Auth\nDatabase: Cloud Firestore\nStorage: Firebase Storage (for images)\nFunctionality: Post Upload, Likes, Comments, Follow System, User Profiles\nExtra: Responsive Mobile UI, Real-Time Updates, Social Feed System",
       "tags": ["Flutter", "Dart", "Firebase", "Mobile App", "Instagram Clone", "Cloud Firestore", "Firebase Auth", "Social Media App"],
@@ -180,3 +180,4 @@ const portfolioData = {
     }
   ]
 };
+
